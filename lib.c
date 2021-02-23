@@ -20,7 +20,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <emacs-module.h>
+#include "emacs-module.h"
 #include <rime_api.h>
 
 #define INTERN(val) env->intern(env, val)
