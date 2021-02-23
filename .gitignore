@@ -17,3 +17,6 @@
 # ccls cache directory
 .ccls-cache
 *.eln
+
+cmake-build-debug/
+cmake-build-release/
